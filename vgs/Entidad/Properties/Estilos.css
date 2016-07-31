@@ -1,0 +1,117 @@
+﻿#colorBarra {
+    background-color:#00a99d;
+    /*background-color:#7FCC00;*/
+    height:60px;
+    z-index:2;
+    position:relative;
+    
+}
+#fieldRadio {
+    border:1px solid #808080;
+}
+.liHorizontal {
+    display: inline-block;
+}
+#barraVerde {
+    background-color:#0ead43;
+    height:10px;
+    z-index:0;
+    bottom:1px;
+    position:relative;
+    
+}
+
+#logo {
+    width:120px;
+    height:120px;
+   position:fixed;
+  z-index:20;
+  left:40px;
+   top:5px;
+}
+h3 {
+    color:#000000;
+
+}
+
+/*Inicio*/
+.edit1 {
+    width:180px;
+    height:180px;
+    margin-top:37px;
+}
+/*#edit1:hover {
+    background:#60f13d;
+    opacity:5;
+
+}*/
+.instagram-panel:hover {
+    background-color:#6ff635;
+    /*opacity:0.5;*/
+     margin-top: 15px;
+    }
+.lblExamen {
+    color:white;
+    /*margin-top:7px;*/
+    font-size:medium;
+    font-weight:bolder;
+}
+.darkblue-panel:hover {
+    background-color:#ff8428;
+     margin-top: 15px;
+}
+.darkblue-panel2:hover {
+ background-color:#52d3d3;
+ margin-top: 15px;
+}
+#bodyInicio {
+    background-color:#ffffff;
+}
+#bienv {
+    font-family:IrisUPC;
+    font-weight:800;
+    font-size:60px;
+    color:#000000;
+}
+
+/*login*/
+#logoPrincipal {
+     width:140px;
+    height:140px;
+   margin-top:90px;
+}
+#entrarUser {
+   width:350px;
+   margin-left:35%;
+   margin-right:65%;
+   
+}
+
+
+#entrarUser2 {
+   font-family:sans-serif;
+   text-align:center;
+}
+#loginTitulo {
+    font-family:sans-serif;
+}
+/*registro*/
+#fontTitulo {
+        
+    font-weight:bold;
+    font-size:medium;
+        color:#000000;
+        font-family:sans-serif;
+}
+.form-control {
+   
+     font-family:sans-serif;
+}
+#centrarCampos {
+    margin-left:27%;
+    width:500px;
+}
+/*CrearUsuario*/
+#panelUsuario {
+    width:500px;
+}

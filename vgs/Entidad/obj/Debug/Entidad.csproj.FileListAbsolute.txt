@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Entidad\bin\Debug\Entidad.dll
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Entidad\bin\Debug\Entidad.pdb
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Entidad\obj\Debug\Entidad.dll
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Erick Balam\Desktop\VGS\vgs\Entidad\bin\Debug\Entidad.dll
+C:\Users\Erick Balam\Desktop\VGS\vgs\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Erick Balam\Desktop\VGS\vgs\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Erick Balam\Desktop\VGS\vgs\Entidad\obj\Debug\Entidad.dll
+C:\Users\Erick Balam\Desktop\VGS\vgs\Entidad\obj\Debug\Entidad.pdb

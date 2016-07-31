@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\bin\Debug\Datos.dll
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\bin\Debug\Datos.pdb
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\obj\Debug\Datos.dll
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\obj\Debug\Datos.pdb
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\bin\Debug\Entidad.dll
+C:\Users\LENOVO\Documents\CAROL\A-UTM\9 CUATRIMESTRE\VGS\vgs\Datos\bin\Debug\Entidad.pdb
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\bin\Debug\Datos.dll
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\bin\Debug\Datos.pdb
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\bin\Debug\Entidad.dll
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\bin\Debug\Entidad.pdb
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\obj\Debug\Datos.dll
+C:\Users\Erick Balam\Desktop\VGS\vgs\Datos\obj\Debug\Datos.pdb
